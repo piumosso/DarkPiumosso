@@ -2,6 +2,13 @@
 
 DarkPiumosso - color scheme for Pycharm
 
+## Installation
+
+```
+$ git clone git://github.com/piumosso/DarkPiumosso.git
+$ cp DarkPiumosso/*.xml ~/Library/Preferences/PyCharm20/colors
+```
+
 ## JavaScript
 
 ![](http://cl.ly/image/1h2F3r1K3t3u/js.png)
@@ -17,11 +24,4 @@ DarkPiumosso - color scheme for Pycharm
 ## CSS
 
 ![](http://cl.ly/image/2z43050Y3M0b/css.png)
-
-## Installation
-
-```
-$ git clone git://github.com/piumosso/DarkPiumosso.git
-$ cp DarkPiumosso/*.xml ~/Library/Preferences/PyCharm20/colors
-```
 
