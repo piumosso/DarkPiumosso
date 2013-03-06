@@ -177,7 +177,7 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="e5d979" />
+        <option name="FOREGROUND" value="fffdb9" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -199,7 +199,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="b1a55d" />
+        <option name="FOREGROUND" value="d9cd6e" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -214,7 +214,7 @@
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e5d979" />
+        <option name="FOREGROUND" value="fffdb9" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -421,8 +421,8 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="9b4f54" />
-        <option name="ERROR_STRIPE_COLOR" value="eb3a49" />
+        <option name="BACKGROUND" value="62413d" />
+        <option name="ERROR_STRIPE_COLOR" value="62413d" />
       </value>
     </option>
     <option name="DIFF_DELETED">
@@ -433,14 +433,14 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="45694a" />
-        <option name="ERROR_STRIPE_COLOR" value="18701" />
+        <option name="BACKGROUND" value="475945" />
+        <option name="ERROR_STRIPE_COLOR" value="475945" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="58618d" />
-        <option name="ERROR_STRIPE_COLOR" value="3b59b2" />
+        <option name="BACKGROUND" value="565b6a" />
+        <option name="ERROR_STRIPE_COLOR" value="565b6a" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
