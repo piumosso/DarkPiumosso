@@ -639,7 +639,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="7b9cff" />
+        <option name="FOREGROUND" value="7e94ff" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -667,12 +667,12 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="7b9cff" />
+        <option name="FOREGROUND" value="44b3ff" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="7b9cff" />
+        <option name="FOREGROUND" value="44b3ff" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1948,7 +1948,10 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6300" />
+        <option name="FOREGROUND" value="2b2827" />
+        <option name="BACKGROUND" value="d6cf6b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ff00" />
       </value>
     </option>
