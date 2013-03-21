@@ -6,7 +6,10 @@ DarkPiumosso - color scheme for Pycharm
 
 ```
 $ git clone git://github.com/piumosso/DarkPiumosso.git
+For MacOS:
 $ cp DarkPiumosso/*.xml ~/Library/Preferences/PyCharm20/colors
+For Linux:
+$ cp DarkPiumosso/*.xml ~/.PyCharm20/config/colors
 ```
 
 ## JavaScript
